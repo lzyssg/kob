@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="697fdf06-ccf9-438e-84d8-d3cf0eb9a37e" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/BackendApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/config/CorsConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/config/WebSocketConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/config/filter/JwtAuthenticationTokenFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/config/filter/RestTemplateConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/consumer/WebSocketServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/consumer/utils/Cell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/consumer/utils/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/consumer/utils/JwtAuthentication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/consumer/utils/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/controller/pk/StartGameController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/controller/user/account/InfoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/controller/user/account/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/controller/user/account/RegisterController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/controller/user/bot/AddController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/controller/user/bot/GetListController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/controller/user/bot/RemoveController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/controller/user/bot/UpdateController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/mapper/BotMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/mapper/RecordMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/pojo/Bot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/pojo/Record.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/pojo/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/service/impl/UserDetailsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/service/impl/pk/StartGameServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/service/impl/user/account/InfoServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/service/impl/user/account/LoginServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/service/impl/user/account/RegisterServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/service/impl/user/bot/AddServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/service/impl/user/bot/GetListServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/service/impl/user/bot/RemoveServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/service/impl/user/bot/UpdataServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/service/impl/utils/UserDetailsImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/service/pk/StartGameService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/service/user/account/InfoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/service/user/account/LoginService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/service/user/account/RegisterService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/service/user/bot/AddService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/service/user/bot/GetListService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/service/user/bot/RemoveService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/service/user/bot/UpdateService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kob/backend/utils/JwtUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/pk/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/kob/backend/BackendApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendcloud/backend/src/main/java/com/kob/backend/controller/pk/BotInfoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendcloud/backend/src/main/java/com/kob/backend/controller/pk/indexController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendcloud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../backendcloud/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2C7T8hW9l6BvBdaYVXIjzBa6vWg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/86153/Desktop/king of bots/kob/backend&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;b43fdd98b1fd705ae4c3a10cf25aad8a&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.kob.backend" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.kob.backend" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BackendApplication">
+    <configuration name="BackendApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kob.backend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kob.backend" />
+      <option name="MAIN_CLASS_NAME" value="com.kob.backend.BackendApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kob.backend.BackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BackendApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="697fdf06-ccf9-438e-84d8-d3cf0eb9a37e" name="变更" comment="" />
+      <created>1658152468202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658152468202</updated>
+      <workItem from="1658152470703" duration="265000" />
+      <workItem from="1658152750712" duration="153000" />
+      <workItem from="1658152918777" duration="172000" />
+      <workItem from="1658153105543" duration="71000" />
+      <workItem from="1658153219830" duration="105000" />
+      <workItem from="1658154005977" duration="5492000" />
+      <workItem from="1658575130662" duration="24000" />
+      <workItem from="1658814995269" duration="2860000" />
+      <workItem from="1658992382819" duration="5040000" />
+      <workItem from="1659150117632" duration="10606000" />
+      <workItem from="1659276606821" duration="5399000" />
+      <workItem from="1659294596383" duration="2388000" />
+      <workItem from="1659688088640" duration="3613000" />
+      <workItem from="1659942441176" duration="3635000" />
+      <workItem from="1660024526699" duration="10028000" />
+      <workItem from="1660632949639" duration="1963000" />
+      <workItem from="1661066102031" duration="3560000" />
+      <workItem from="1661170088095" duration="10953000" />
+      <workItem from="1661714168350" duration="10832000" />
+      <workItem from="1662098267612" duration="7794000" />
+      <workItem from="1662395085891" duration="16869000" />
+      <workItem from="1662787894130" duration="17617000" />
+      <workItem from="1662893391212" duration="282000" />
+      <workItem from="1662905686482" duration="3656000" />
+      <workItem from="1662980366559" duration="9684000" />
+      <workItem from="1663045304452" duration="14580000" />
+      <workItem from="1663126130304" duration="68000" />
+      <workItem from="1663126304997" duration="785000" />
+      <workItem from="1663246459101" duration="62000" />
+      <workItem from="1663246890541" duration="311000" />
+      <workItem from="1663248251579" duration="17000" />
+      <workItem from="1663248286117" duration="668000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
